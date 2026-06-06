@@ -125,9 +125,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 ---
 
 <p align="center">
-<i>"Mathematics is the language in which God has written the universe."</i>
+<i>"Pure mathematics is, in its way, the poetry of logical ideas."</i>
 <br>
-— <b>Galileo Galilei</b>
+— <b>Albert Einstein</b>
 </p>
 
 
